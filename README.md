@@ -31,12 +31,13 @@ I care deeply about **clean architecture, performance, and reliability**, and I 
 ---
 
 ## 📌 Featured Projects
+
 | Project | Description | Tech |
 |---------|------------|------|
-| **High-Vibe Chat** | Real-time chat & video platform with monitoring & failure handling | React, WebSockets, Firebase |
-| **Jinder-Job App** | Ai-powered global job board | TypeScript, React, Supabase |
-| **Automation Dashboards** | Internal tools for asset tracking & performance | React, Node, SQL |
-
+| **High-Vibe Chat** | Real-time chat & video platform with monitoring, reconnect logic & failure handling | React, WebSockets, Firebase |
+| **Jinder – AI Job Platform** | AI-powered global job board with intelligent filtering & user dashboards | TypeScript, React, Supabase |
+| **Manufacturing Workflow Automation System** | Production-style factory workflow simulator with automation engine, KPI analytics, background workers & Dockerized deployment | Python, FastAPI, PostgreSQL, Celery, Docker |
+| **Automation Dashboards** | Internal tools for asset tracking, performance analytics & system monitoring | React, Node, SQL |
 ---
 
 ## 📫 Connect With Me
