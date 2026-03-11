@@ -43,7 +43,7 @@ I care deeply about **clean architecture, performance, and reliability**, and I 
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://lakshya-job-portfolio.vercel.app  
 - 💼 LinkedIn: https://linkedin.com/in/lakshyasprasad  
-- 📧 Email: your-email@email.com
+- 📧 Email: lakshyasprasad21@gmail.com
 
 ---
 
